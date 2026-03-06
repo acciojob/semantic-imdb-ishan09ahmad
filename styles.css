@@ -1,2 +1,55 @@
+  body{
+            margin:0;
+            background:#0b0f1a;
+            color:white;
+        }
 
-/* Your CSS Code here. */
+        header{
+            background:#111827;
+            text-align:center;
+            padding:20px;
+            font-size:32px;
+            font-weight:bold;
+        }
+
+        nav{
+            background:#1f2937;
+            padding:12px;
+            text-align:center;
+        }
+
+        nav a{
+            color:#60a5fa;
+            margin:0 15px;
+            text-decoration:none;
+            font-weight:bold;
+        }
+
+        nav a:hover{
+            text-decoration:underline;
+        }
+
+        main{
+            padding:20px;
+        }
+
+        section{
+            margin-top:25px;
+            padding:15px;
+            background:#111827;
+            border-radius:8px;
+        }
+
+        aside{
+            margin-top:20px;
+            padding:15px;
+            background:#1f2937;
+            
+        }
+
+        footer{
+            text-align:center;
+            padding:15px;
+            background:#111827;
+            margin-top:30px;
+        }
